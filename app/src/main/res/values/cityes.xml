@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>city</item>
+        <item>Leticia</item>
+        <item>Amazonas</item>
+        <item>Puerto asís</item>
+        <item>Puerto Leguízamo</item>
+        <item>Florencia</item>
+        <item>Guainía </item>
+        <item>Mitú </item>
+        <item>Mocoa </item>
+        <item>San José del Guaviare </item>
+        <item>Sibundoy </item>
+        <item>Bucaramanga </item>
+        <item>Bogotá </item>
+        <item>Medellín</item>
+        <item>Villa de Leyva </item>
+        <item>Barrancabermeja </item>
+        <item>Caucasia </item>
+        <item>El Bagre </item>
+        <item>Pereira </item>
+        <item>Pitalito </item>
+        <item>Prado </item>
+        <item>Pamplona </item>
+        <item>Paipa </item>
+        <item>Salamina </item>
+        <item>Manizales</item>
+        <item>La Playa de Belén </item>
+        <item>Neiva </item>
+        <item>Melgar </item>
+        <item>Monguí </item>
+        <item>Villeta </item>
+        <item>Zipaquirá </item>
+        <item>Tunja </item>
+        <item>Santa Rosa de Cabal </item>
+        <item>Santa Fe de Antioquia </item>
+        <item>San Gil </item>
+        <item>Socorro </item>
+        <item>Sogamoso </item>
+        <item>Jericó </item>
+        <item>Chiquinquirá </item>
+        <item>Aguadas </item>
+        <item>Armenia </item>
+        <item>Barichara </item>
+        <item>Girón </item>
+        <item>Guaduas </item>
+        <item>Ibagué </item>
+        <item>Honda </item>
+        <item>Girardot </item>
+        <item>Cúcuta </item>
+         <item>El Jardín </item>
+        <item>El Cocuy </item>
+        <item>El Hobo </item>
+        <item>El Espinal </item>
+        <item>La Calera </item>
+        <item>Barranquilla</item>
+        <item>Cartagena de Indias </item>
+        <item>Mompox </item>
+        <item>San Andrés </item>
+        <item>Valledupar </item>
+        <item>Apartadó </item>
+        <item>Corozal </item>
+        <item>Tolú </item>
+        <item>Santa Marta</item>
+        <item>Ciénaga </item>
+        <item>Lorica </item>
+        <item>Montería </item>
+        <item>Riohacha </item>
+        <item>Sincelejo </item>
+        <item>Saravena </item>
+        <item>Tame </item>
+        <item>Puerto Inírida </item>
+        <item>Yopal </item>
+        <item>Villavicencio </item>
+        <item>Arauca </item>
+        <item>Puerto Carreño </item>
+        <item>La Macarena </item>
+        <item>Buga </item>
+         <item>Cali </item>
+        <item>Chocó </item>
+        <item>Popayán </item>
+        <item>Pasto </item>
+        <item>Acandí </item>
+        <item>Quibdó </item>
+        <item>Tumaco </item>
+        <item>Ipiales </item>
+        <item>Condoto </item>
+        <item>Bahía Solano </item>
+         <item>Buenaventura </item>
+        <item>Cartago </item>
+        <item>Guapi </item>
+        <item>Inzá </item>
+        <item>Nuquí </item>
+
+    </string-array>
+</resources>
